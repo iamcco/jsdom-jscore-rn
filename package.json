@@ -1,6 +1,6 @@
 {
     "name": "jsdom-jscore-rn",
-    "version": "0.1.1",
+    "version": "0.1.3",
     "description": "A fork of brentvatne/jsdom-jscore to run within react-native",
     "keywords": [
         "dom",
@@ -22,6 +22,7 @@
     },
     "main": "./lib/jsdom",
     "dependencies": {
-        "htmlparser2-without-node-native": "^3.9.2"
+        "htmlparser2-without-node-native": "^3.9.2",
+        "querystring": "^0.2.0"
     }
 }
