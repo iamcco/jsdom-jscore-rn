@@ -2,10 +2,14 @@
     "name": "jsdom-jscore-rn",
     "version": "0.1.1",
     "description": "A fork of brentvatne/jsdom-jscore to run within react-native",
-    "keywords": ["dom", "w3c", "html"],
+    "keywords": [
+        "dom",
+        "w3c",
+        "html"
+    ],
     "author": {
-      "name": "年糕小豆汤",
-      "email": "ooiss@qq.com"
+        "name": "年糕小豆汤",
+        "email": "ooiss@qq.com"
     },
     "bugs": "https://github.com/iamcco/jsdom-jscore-rn/issues",
     "license": {
@@ -16,5 +20,8 @@
         "type": "git",
         "url": "git://github.com/iamcco/jsdom-jscore-rn.git"
     },
-    "main": "./lib/jsdom"
+    "main": "./lib/jsdom",
+    "dependencies": {
+        "htmlparser2-without-node-native": "^3.9.2"
+    }
 }
