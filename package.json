@@ -1,20 +1,20 @@
 {
-    "name": "jsdom-jscore",
+    "name": "jsdom-jscore-rn",
     "version": "0.1.0",
-    "description": "A fork of jsdom/jsdom-little to run within JavaScript Core on iOS, with all dependencies builtin",
+    "description": "A fork of brentvatne/jsdom-jscore to run within react-native",
     "keywords": ["dom", "w3c", "html"],
     "author": {
-      "name": "Brent Vatne",
-      "email": "brentvatne@gmail.com"
+      "name": "年糕小豆汤",
+      "email": "ooiss@qq.com"
     },
-    "bugs": "https://github.com/brentvatne/jsdom-jscore/issues",
+    "bugs": "https://github.com/iamcco/jsdom-jscore-rn/issues",
     "license": {
         "type": "MIT",
-        "url": "http://github.com/brentvatne/jsdom-jscore/blob/master/LICENSE.txt"
+        "url": "http://github.com/iamcco/jsdom-jscore-rn/blob/master/LICENSE.txt"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/brentvatne/jsdom-jscore.git"
+        "url": "git://github.com/iamcco/jsdom-jscore-rn.git"
     },
     "main": "./lib/jsdom"
 }
