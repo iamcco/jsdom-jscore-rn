@@ -1,60 +1,60 @@
 {
-  "name": "nwmatcher",
-  "version": "1.3.4",
+  "_from": "nwmatcher",
+  "_id": "nwmatcher@1.4.3",
+  "_inBundle": false,
+  "_integrity": "sha1-ZDSOOz2A8DW0CsEVY9J4+LctuJw=",
+  "_location": "/nwmatcher",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nwmatcher",
+    "name": "nwmatcher",
+    "escapedName": "nwmatcher",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.corp.bianlifeng.com/nwmatcher/download/nwmatcher-1.4.3.tgz",
+  "_shasum": "64348e3b3d80f035b40ac11563d278f8b72db89c",
+  "_spec": "nwmatcher",
+  "_where": "/Users/aioiyuuko/my",
+  "author": {
+    "name": "Diego Perini",
+    "email": "diego.perini@gmail.com",
+    "url": "http://www.iport.it/"
+  },
+  "bugs": {
+    "url": "http://github.com/dperini/nwmatcher/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "A CSS3-compliant JavaScript selector engine.",
+  "ender": "./lib/ender/bridge.js",
   "homepage": "http://javascript.nwbox.com/NWMatcher/",
-  "main": "./src/nwmatcher",
   "keywords": [
     "css",
     "matcher",
     "selector",
     "ender"
   ],
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://javascript.nwbox.com/NWMatcher/MIT-LICENSE"
-    }
-  ],
-  "author": {
-    "name": "Diego Perini",
-    "email": "diego.perini@gmail.com",
-    "url": "http://www.iport.it/"
-  },
+  "license": "MIT",
+  "main": "./src/nwmatcher",
   "maintainers": [
     {
-      "name": "rvagg",
-      "email": "rod@vagg.org"
-    },
-    {
-      "name": "diego",
-      "email": "diego.perini@gmail.com"
+      "name": "Diego Perini",
+      "email": "diego.perini@gmail.com",
+      "url": "http://www.iport.it/"
     }
   ],
-  "bugs": {
-    "url": "http://github.com/dperini/nwmatcher/issues"
-  },
+  "name": "nwmatcher",
   "repository": {
     "type": "git",
     "url": "git://github.com/dperini/nwmatcher.git"
   },
-  "ender": "./lib/ender/bridge.js",
-  "gitHead": "17f159f0cc068510a098753f538a9dddd537cb9a",
-  "_id": "nwmatcher@1.3.4",
-  "scripts": {},
-  "_shasum": "965aa05fc3bc9de0a6438c8c07169866092fdaed",
-  "_from": "nwmatcher@~1.3.2",
-  "_npmVersion": "2.1.14",
-  "_nodeVersion": "0.10.35",
-  "_npmUser": {
-    "name": "diego",
-    "email": "diego.perini@gmail.com"
-  },
-  "dist": {
-    "shasum": "965aa05fc3bc9de0a6438c8c07169866092fdaed",
-    "tarball": "http://registry.npmjs.org/nwmatcher/-/nwmatcher-1.3.4.tgz"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/nwmatcher/-/nwmatcher-1.3.4.tgz",
-  "readme": "ERROR: No README data found!"
+  "version": "1.4.3"
 }
