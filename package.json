@@ -1,6 +1,6 @@
 {
     "name": "jsdom-jscore-rn",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "description": "A fork of brentvatne/jsdom-jscore to run within react-native",
     "keywords": [
         "dom",
